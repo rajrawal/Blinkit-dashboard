@@ -39,7 +39,7 @@ To view or edit this dashboard, you need:
 3. Explore insights using filters and interactive visuals.
 
 ## 📷 Dashboard Preview
-![Blinkit Sales Dashboard](Screenshots/dashboard_preview.png)
+![Blinkit Sales Dashboard](image.png)
 
 ## 🎯 Insights & Learnings
 This project helped me:
